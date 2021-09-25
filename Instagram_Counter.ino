@@ -16,7 +16,7 @@
 
 WiFiClientSecure client; //For ESP8266 boards
 HTTPClient http;
-String host = "https://counts.live/api/instagram-follower-count/";
+String host = "*******************";
 const int port = 443;
 char username_insta[30];
 JSONVar myObject;
