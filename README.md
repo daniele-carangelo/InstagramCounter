@@ -16,6 +16,6 @@ Using a ESP8266 module Wifi and Led matrix MAX7219
 ![Image of Counter](https://github.com/daniele-carangelo/InstagramCounter/blob/main/Image/im3.jpeg)
 
 
-![Image of Counter](https://github.com/daniele-carangelo/InstagramCounter/blob/main/Image/im6.jpeg)
+![Image of Counter](https://github.com/daniele-carangelo/InstagramCounter/blob/main/Image/im6.jpg)
 
 
